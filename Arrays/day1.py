@@ -99,9 +99,11 @@ numbers=[10,20,30]
 new_numbers=numbers.copy()
 print(new_numbers)
 
+#two separate lists
 numbers=[10,20,30]
 new_numbers=numbers.copy()
 new_numbers.append(40)
 
 print(numbers)
 print(new_numbers)
+

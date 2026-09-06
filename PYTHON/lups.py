@@ -73,19 +73,3 @@ for i in range(6):
         continue
     print(i)
 
-#he else Clause with Loops
-
-#Python allows an else block with both for and while loops. The else block runs only if the loop finishes normally (that is, it is not terminated by break).
-
-for i in range(5):
-    print(i)
-
-else:
-    print("Loop complete")
-
-for i in range(5):
-    if i==5:
-        break
-    print(i)
-else:
-    print("Loop")

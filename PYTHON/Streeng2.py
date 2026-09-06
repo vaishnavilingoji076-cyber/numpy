@@ -52,3 +52,6 @@ print(text.splitlines())
 text = "Python"
 
 print(text.center(20))
+text = "Python"
+
+

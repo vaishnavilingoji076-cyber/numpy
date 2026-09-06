@@ -9,6 +9,7 @@ for char in string:
 print(v)
     
 
+#second method
 
 string="V*a*i*s*h"
 
