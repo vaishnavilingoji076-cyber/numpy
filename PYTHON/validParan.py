@@ -21,4 +21,4 @@ def isValid(s):
             stack.append(char)
 
     return len(stack)==0
-print(isValid)
+print(isValid("()[]{}"))   # True
